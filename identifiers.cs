@@ -2,7 +2,7 @@
 // Simple C# program to illustrate identifiers 
 using System; 
   
-class GFG { 
+class Add { 
   
     // Main Method 
     static public void Main() 
